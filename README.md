@@ -1,16 +1,4 @@
-<p align="center">
-  <img
-    src="https://i.redd.it/abcpef5ajpfe1.gif"
-    width="45%"
-    alt="Mario animation"
-  />
-<p align="right">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif"
-    width="45%"
-    alt="Creative coding animation"
-  />
-</p>
+
 
 <p align="center">
   <img src="assets/space-shooter.gif" />
